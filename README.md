@@ -27,7 +27,7 @@ To run the program locally, follow these steps:
 
 1. **Clone the Repository:** 
    ```
-   git clone https://github.com/your-username/URLScanning.git
+   git clone https://github.com/ashwingupta80/URLScanning.git
    ```
 
 2. **Database Configuration:**
